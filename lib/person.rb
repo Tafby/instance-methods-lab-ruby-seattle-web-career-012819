@@ -3,10 +3,10 @@ class Person
  
   # Instance Method Definition
   def talk
-    puts "Hello World"
+    puts "Hello World!"
   end
   def walk
-    puts "The person is walking."
+    puts "The Person is walking."
   end
 end
  
